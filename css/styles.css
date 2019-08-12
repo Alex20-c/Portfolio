@@ -2,5 +2,5 @@ body {
     background-color: lightblue;
 }
 h1 {
-    background-image: src="css/images/DSC_8540.jpg" alt="stylesheet" width="10%" height="15%">
+    background-image: src="file:///home/alex/Desktop/DSC_8540.jpg" alt="stylesheet" width="10%" height="15%">
 }
