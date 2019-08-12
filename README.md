@@ -2,7 +2,7 @@
 portfolio
 ##Author name
 Alex Kiprop
-###Description of the Project
+##Description of the Project
 this is a portfolio website that takes one through my interests and what i do.
 ##Project setup instructions
 link to my github website
