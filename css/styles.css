@@ -1,6 +1,5 @@
 body{
-    background: linear-gradient(blue, yellow);
-
+    background: linear-gradient(to bottom, blue, yellow);
 }
 
  
